@@ -1,0 +1,11 @@
+{
+  "name": "doce-sabor-digital-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend da plataforma Doce Sabor Digital",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "test": "echo 'Defina testes para o backend'"
+  }
+}
