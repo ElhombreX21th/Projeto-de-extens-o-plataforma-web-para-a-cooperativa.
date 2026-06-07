@@ -2,6 +2,12 @@
 
 Este repositório foi organizado com uma estrutura inicial para o projeto **Doce Sabor Digital**, separando backend, frontend e documentação.
 
+## Screenshots
+
+![Doce Sabor Digital preview](screenshot-1.svg)
+
+![Order flow concept](screenshot-2.svg)
+
 ## Estrutura
 
 ```text
@@ -18,6 +24,8 @@ doce-sabor-digital/
 ├── docs/
 │   ├── relatorio-resumido.md
 │   └── imagens/
+├── screenshot-1.svg
+├── screenshot-2.svg
 ├── .gitignore
 ├── README.md
 └── LICENSE
@@ -26,9 +34,10 @@ doce-sabor-digital/
 ## Objetivo
 
 Construir uma plataforma web para apoiar a cooperativa em processos digitais como:
-- divulgação de produtos/serviços,
-- contato com clientes,
-- organização de informações institucionais,
+
+- divulgação de produtos/serviços;
+- contato com clientes;
+- organização de informações institucionais;
 - evolução para funcionalidades administrativas.
 
 ## Próximos passos sugeridos
