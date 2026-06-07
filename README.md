@@ -1,6 +1,6 @@
-# Projeto de Extensão — Plataforma Web para a Cooperativa
+# Extension Project — Web Platform for the Cooperative
 
-Este repositório foi organizado com uma estrutura inicial para o projeto **Doce Sabor Digital**, separando backend, frontend e documentação.
+This repository was organized as an initial structure for the **Doce Sabor Digital** project, separating backend, frontend, and documentation.
 
 ## Screenshots
 
@@ -8,7 +8,7 @@ Este repositório foi organizado com uma estrutura inicial para o projeto **Doce
 
 ![Order flow concept](screenshot-2.svg)
 
-## Estrutura
+## Structure
 
 ```text
 doce-sabor-digital/
@@ -22,8 +22,8 @@ doce-sabor-digital/
 │   ├── package.json
 │   └── README.md
 ├── docs/
-│   ├── relatorio-resumido.md
-│   └── imagens/
+│   ├── summary-report.md
+│   └── images/
 ├── screenshot-1.svg
 ├── screenshot-2.svg
 ├── .gitignore
@@ -31,23 +31,23 @@ doce-sabor-digital/
 └── LICENSE
 ```
 
-## Objetivo
+## Objective
 
-Construir uma plataforma web para apoiar a cooperativa em processos digitais como:
+Build a web platform to support the cooperative with digital processes such as:
 
-- divulgação de produtos/serviços;
-- contato com clientes;
-- organização de informações institucionais;
-- evolução para funcionalidades administrativas.
+- product and service promotion;
+- customer contact;
+- organization of institutional information;
+- future evolution toward administrative features.
 
-## Próximos passos sugeridos
+## Suggested Next Steps
 
-1. Implementar API no `backend/src`.
-2. Criar interface do usuário no `frontend/src`.
-3. Registrar decisões e evolução no `docs/relatorio-resumido.md`.
-4. Padronizar scripts (`dev`, `build`, `test`) em backend e frontend.
+1. Implement the API in `backend/src`.
+2. Create the user interface in `frontend/src`.
+3. Document decisions and progress in `docs/summary-report.md`.
+4. Standardize scripts such as `dev`, `build`, and `test` in both backend and frontend.
 
-## Como começar
+## Getting Started
 
 ### Backend
 
@@ -65,4 +65,4 @@ npm install
 npm run dev
 ```
 
-> Observação: os arquivos atuais são um ponto de partida. Ajuste dependências e scripts conforme o framework escolhido.
+> Note: the current files are a starting point. Adjust dependencies and scripts according to the framework selected for implementation.
